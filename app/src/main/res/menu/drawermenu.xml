@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/admin"
+        android:title="admin" />
+    <!--<item android:id="@+id/upload"-->
+        <!--android:icon="@drawable/ic_upload"-->
+        <!--android:title="@string/upload"-->
+        <!--android:showAsAction="ifRoom" />-->
+    <item android:id="@+id/recordTransaksi"
+        android:title="reccord transaksi" />
+</menu>
